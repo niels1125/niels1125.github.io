@@ -1,0 +1,3940 @@
+[
+    {
+      "name": "Aachen",
+      "country": "de"
+    },
+    {
+      "name": "Aarhus",
+      "country": "dk"
+    },
+    {
+      "name": "Abee",
+      "country": "ca"
+    },
+    {
+      "name": "Acapulco",
+      "country": "mx"
+    },
+    {
+      "name": "Achiras",
+      "country": "ar"
+    },
+    {
+      "name": "Adhi Kot",
+      "country": "pk"
+    },
+    {
+      "name": "Adzhi-Bogdo (stone)",
+      "country": "mn"
+    },
+    {
+      "name": "Agen",
+      "country": "fr"
+    },
+    {
+      "name": "Aguada",
+      "country": "ar"
+    },
+    {
+      "name": "Aguila Blanca",
+      "country": "ar"
+    },
+    {
+      "name": "Aioun el Atrouss",
+      "country": "mr"
+    },
+    {
+      "name": "Aïr",
+      "country": "ne"
+    },
+    {
+      "name": "Aire-sur-la-Lys",
+      "country": "fr"
+    },
+    {
+      "name": "Akaba",
+      "country": "jo"
+    },
+    {
+      "name": "Akbarpur",
+      "country": "in"
+    },
+    {
+      "name": "Akwanga",
+      "country": "ng"
+    },
+    {
+      "name": "Akyumak",
+      "country": "tr"
+    },
+    {
+      "name": "Al Rais",
+      "country": "sa"
+    },
+    {
+      "name": "Al Zarnkh",
+      "country": "sd"
+    },
+    {
+      "name": "Alais",
+      "country": "fr"
+    },
+    {
+      "name": "Albareto",
+      "country": "it"
+    },
+    {
+      "name": "Alberta",
+      "country": "cd"
+    },
+    {
+      "name": "Alby sur Chéran",
+      "country": "fr"
+    },
+    {
+      "name": "Aldsworth",
+      "country": "gb"
+    },
+    {
+      "name": "Aleppo",
+      "country": "sy"
+    },
+    {
+      "name": "Alessandria",
+      "country": "it"
+    },
+    {
+      "name": "Alexandrovsky",
+      "country": "ua"
+    },
+    {
+      "name": "Alfianello",
+      "country": "it"
+    },
+    {
+      "name": "Allegan",
+      "country": "us"
+    },
+    {
+      "name": "Allende",
+      "country": "mx"
+    },
+    {
+      "name": "Almahata Sitta",
+      "country": "sd"
+    },
+    {
+      "name": "Alta'ameem",
+      "country": "iq"
+    },
+    {
+      "name": "Ambapur Nagla",
+      "country": "in"
+    },
+    {
+      "name": "Andhara",
+      "country": "in"
+    },
+    {
+      "name": "Andover",
+      "country": "us"
+    },
+    {
+      "name": "Andreevka",
+      "country": "ua"
+    },
+    {
+      "name": "Andura",
+      "country": "in"
+    },
+    {
+      "name": "Northwest Africa 5815"
+    },
+    {
+      "name": "Angers",
+      "country": "fr"
+    },
+    {
+      "name": "Angra dos Reis (stone)",
+      "country": "br"
+    },
+    {
+      "name": "Ankober",
+      "country": "et"
+    },
+    {
+      "name": "Anlong",
+      "country": "cn"
+    },
+    {
+      "name": "Aomori",
+      "country": "jp"
+    },
+    {
+      "name": "Appley Bridge",
+      "country": "gb"
+    },
+    {
+      "name": "Apt",
+      "country": "fr"
+    },
+    {
+      "name": "Arbol Solo",
+      "country": "ar"
+    },
+    {
+      "name": "Archie",
+      "country": "us"
+    },
+    {
+      "name": "Arroyo Aguiar",
+      "country": "ar"
+    },
+    {
+      "name": "Asco",
+      "country": "fr"
+    },
+    {
+      "name": "Ash Creek",
+      "country": "us"
+    },
+    {
+      "name": "Ashdon",
+      "country": "gb"
+    },
+    {
+      "name": "Assisi",
+      "country": "it"
+    },
+    {
+      "name": "Atarra",
+      "country": "in"
+    },
+    {
+      "name": "Atemajac",
+      "country": "mx"
+    },
+    {
+      "name": "Athens",
+      "country": "us"
+    },
+    {
+      "name": "Atoka",
+      "country": "us"
+    },
+    {
+      "name": "Aubres",
+      "country": "fr"
+    },
+    {
+      "name": "Aumale",
+      "country": "dz"
+    },
+    {
+      "name": "Aumieres",
+      "country": "fr"
+    },
+    {
+      "name": "Ausson",
+      "country": "fr"
+    },
+    {
+      "name": "Avanhandava",
+      "country": "br"
+    },
+    {
+      "name": "Avce",
+      "country": "si"
+    },
+    {
+      "name": "Avilez",
+      "country": "mx"
+    },
+    {
+      "name": "Awere",
+      "country": "ug"
+    },
+    {
+      "name": "Aztec",
+      "country": "us"
+    },
+    {
+      "name": "Bachmut",
+      "country": "ua"
+    },
+    {
+      "name": "Bahjoi",
+      "country": "in"
+    },
+    {
+      "name": "Bald Mountain",
+      "country": "us"
+    },
+    {
+      "name": "Baldwyn",
+      "country": "us"
+    },
+    {
+      "name": "Bali",
+      "country": "cf"
+    },
+    {
+      "name": "Ban Rong Du",
+      "country": "th"
+    },
+    {
+      "name": "Bandong",
+      "country": "id"
+    },
+    {
+      "name": "Bansur",
+      "country": "in"
+    },
+    {
+      "name": "Banswal",
+      "country": "in"
+    },
+    {
+      "name": "Banten",
+      "country": "id"
+    },
+    {
+      "name": "Barbotan",
+      "country": "fr"
+    },
+    {
+      "name": "Barcelona (stone)",
+      "country": "es"
+    },
+    {
+      "name": "Barea",
+      "country": "es"
+    },
+    {
+      "name": "Barnaul",
+      "country": "ru"
+    },
+    {
+      "name": "Barntrup",
+      "country": "de"
+    },
+    {
+      "name": "Baroti",
+      "country": "in"
+    },
+    {
+      "name": "Barwell",
+      "country": "gb"
+    },
+    {
+      "name": "Bassikounou",
+      "country": "mr"
+    },
+    {
+      "name": "Baszkówka",
+      "country": "pl"
+    },
+    {
+      "name": "Bath",
+      "country": "us"
+    },
+    {
+      "name": "Bath Furnace",
+      "country": "us"
+    },
+    {
+      "name": "Battle Mountain",
+      "country": "us"
+    },
+    {
+      "name": "Bawku",
+      "country": "gh"
+    },
+    {
+      "name": "Baxter",
+      "country": "us"
+    },
+    {
+      "name": "Beardsley",
+      "country": "us"
+    },
+    {
+      "name": "Beaver Creek",
+      "country": "ca"
+    },
+    {
+      "name": "Beddgelert",
+      "country": "gb"
+    },
+    {
+      "name": "Bells",
+      "country": "us"
+    },
+    {
+      "name": "Belville",
+      "country": "ar"
+    },
+    {
+      "name": "Benares (a)",
+      "country": "in"
+    },
+    {
+      "name": "Benguerir",
+      "country": "ma"
+    },
+    {
+      "name": "Beni M'hira",
+      "country": "tn"
+    },
+    {
+      "name": "Benld",
+      "country": "us"
+    },
+    {
+      "name": "Benoni",
+      "country": "za"
+    },
+    {
+      "name": "Bensour",
+      "country": "ma"
+    },
+    {
+      "name": "Benton",
+      "country": "ca"
+    },
+    {
+      "name": "Berduc",
+      "country": "ar"
+    },
+    {
+      "name": "Béréba",
+      "country": "bf"
+    },
+    {
+      "name": "Berlanguillas",
+      "country": "es"
+    },
+    {
+      "name": "Berthoud",
+      "country": "us"
+    },
+    {
+      "name": "Bethlehem",
+      "country": "us"
+    },
+    {
+      "name": "Beuste",
+      "country": "fr"
+    },
+    {
+      "name": "Beyrout",
+      "country": "lb"
+    },
+    {
+      "name": "Bhagur",
+      "country": "in"
+    },
+    {
+      "name": "Bhawad",
+      "country": "in"
+    },
+    {
+      "name": "Bherai",
+      "country": "in"
+    },
+    {
+      "name": "Bhola",
+      "country": "bd"
+    },
+    {
+      "name": "Bholghati",
+      "country": "in"
+    },
+    {
+      "name": "Bialystok",
+      "country": "pl"
+    },
+    {
+      "name": "Bielokrynitschie",
+      "country": "ua"
+    },
+    {
+      "name": "Bilanga",
+      "country": "bf"
+    },
+    {
+      "name": "Binningup",
+      "country": "au"
+    },
+    {
+      "name": "Birni N'konni",
+      "country": "ng"
+    },
+    {
+      "name": "Bishopville",
+      "country": "us"
+    },
+    {
+      "name": "Bishunpur",
+      "country": "in"
+    },
+    {
+      "name": "Bjelaja Zerkov",
+      "country": "ua"
+    },
+    {
+      "name": "Bjurböle",
+      "country": "fi"
+    },
+    {
+      "name": "Black Moshannan Park",
+      "country": "us"
+    },
+    {
+      "name": "Blackwell",
+      "country": "us"
+    },
+    {
+      "name": "Blanket",
+      "country": "us"
+    },
+    {
+      "name": "Blansko",
+      "country": "cz"
+    },
+    {
+      "name": "Bloomington",
+      "country": "us"
+    },
+    {
+      "name": "Bo Xian",
+      "country": "cn"
+    },
+    {
+      "name": "Bocas",
+      "country": "mx"
+    },
+    {
+      "name": "Bogou",
+      "country": "bf"
+    },
+    {
+      "name": "Boguslavka",
+      "country": "ru"
+    },
+    {
+      "name": "Borgo San Donino",
+      "country": "it"
+    },
+    {
+      "name": "Bori",
+      "country": "in"
+    },
+    {
+      "name": "Boriskino",
+      "country": "ru"
+    },
+    {
+      "name": "Borkut",
+      "country": "ua"
+    },
+    {
+      "name": "Borodino",
+      "country": "ru"
+    },
+    {
+      "name": "Botschetschki",
+      "country": "ua"
+    },
+    {
+      "name": "Boumdeid (2003)",
+      "country": "mr"
+    },
+    {
+      "name": "Boumdeid (2011)",
+      "country": "mr"
+    },
+    {
+      "name": "Bovedy",
+      "country": "gb"
+    },
+    {
+      "name": "Bradford Woods",
+      "country": "us"
+    },
+    {
+      "name": "Braunau",
+      "country": "cz"
+    },
+    {
+      "name": "Breitscheid",
+      "country": "de"
+    },
+    {
+      "name": "Bremervörde",
+      "country": "de"
+    },
+    {
+      "name": "Brient",
+      "country": "ru"
+    },
+    {
+      "name": "Bruderheim",
+      "country": "ca"
+    },
+    {
+      "name": "Bukhara",
+      "country": "uz"
+    },
+    {
+      "name": "Bunburra Rockhole",
+      "country": "au"
+    },
+    {
+      "name": "Bununu",
+      "country": "ng"
+    },
+    {
+      "name": "Bur-Gheluai",
+      "country": "so"
+    },
+    {
+      "name": "Burnwell",
+      "country": "us"
+    },
+    {
+      "name": "Bursa",
+      "country": "tr"
+    },
+    {
+      "name": "Buschhof",
+      "country": "ro"
+    },
+    {
+      "name": "Bustee",
+      "country": "in"
+    },
+    {
+      "name": "Butsura",
+      "country": "in"
+    },
+    {
+      "name": "Buzzard Coulee",
+      "country": "ca"
+    },
+    {
+      "name": "Cabezo de Mayo",
+      "country": "es"
+    },
+    {
+      "name": "Cabin Creek",
+      "country": "us"
+    },
+    {
+      "name": "Cacak",
+      "country": "rs"
+    },
+    {
+      "name": "Cali",
+      "country": "co"
+    },
+    {
+      "name": "Calivo",
+      "country": "ph"
+    },
+    {
+      "name": "Campos Sales",
+      "country": "br"
+    },
+    {
+      "name": "Çanakkale",
+      "country": "tr"
+    },
+    {
+      "name": "Cañellas",
+      "country": "es"
+    },
+    {
+      "name": "Cangas de Onis",
+      "country": "es"
+    },
+    {
+      "name": "Canon City",
+      "country": "us"
+    },
+    {
+      "name": "Cape Girardeau",
+      "country": "us"
+    },
+    {
+      "name": "Capilla del Monte",
+      "country": "ar"
+    },
+    {
+      "name": "Carancas",
+      "country": "pe"
+    },
+    {
+      "name": "Caratash",
+      "country": "tr"
+    },
+    {
+      "name": "Castalia",
+      "country": "us"
+    },
+    {
+      "name": "Castel Berardenga",
+      "country": "it"
+    },
+    {
+      "name": "Castine",
+      "country": "us"
+    },
+    {
+      "name": "Castrovillari",
+      "country": "it"
+    },
+    {
+      "name": "Caswell County",
+      "country": "us"
+    },
+    {
+      "name": "Ceniceros",
+      "country": "mx"
+    },
+    {
+      "name": "Centerville",
+      "country": "us"
+    },
+    {
+      "name": "Cereseto",
+      "country": "it"
+    },
+    {
+      "name": "Chadong",
+      "country": "cn"
+    },
+    {
+      "name": "Chail",
+      "country": "in"
+    },
+    {
+      "name": "Chainpur",
+      "country": "in"
+    },
+    {
+      "name": "Chajari",
+      "country": "ar"
+    },
+    {
+      "name": "Chandakapur",
+      "country": "in"
+    },
+    {
+      "name": "Chandpur",
+      "country": "in"
+    },
+    {
+      "name": "Changde",
+      "country": "cn"
+    },
+    {
+      "name": "Chantonnay",
+      "country": "fr"
+    },
+    {
+      "name": "Charlotte",
+      "country": "us"
+    },
+    {
+      "name": "Charsonville",
+      "country": "fr"
+    },
+    {
+      "name": "Charwallas",
+      "country": "in"
+    },
+    {
+      "name": "Chassigny",
+      "country": "fr"
+    },
+    {
+      "name": "Château-Renard",
+      "country": "fr"
+    },
+    {
+      "name": "Chaves",
+      "country": "es"
+    },
+    {
+      "name": "Chela",
+      "country": "tz"
+    },
+    {
+      "name": "Chelyabinsk",
+      "country": "ru"
+    },
+    {
+      "name": "Chergach ",
+      "country": "ml"
+    },
+    {
+      "name": "Chernyi Bor",
+      "country": "by"
+    },
+    {
+      "name": "Cherokee Springs",
+      "country": "us"
+    },
+    {
+      "name": "Chervettaz",
+      "country": "ch"
+    },
+    {
+      "name": "Chervony Kut",
+      "country": "ua"
+    },
+    {
+      "name": "Chetrinahatti",
+      "country": "in"
+    },
+    {
+      "name": "Chiang Khan",
+      "country": "la"
+    },
+    {
+      "name": "Chicora",
+      "country": "us"
+    },
+    {
+      "name": "Chisenga",
+      "country": "mw"
+    },
+    {
+      "name": "Chitado",
+      "country": "ao"
+    },
+    {
+      "name": "Chitenay",
+      "country": "fr"
+    },
+    {
+      "name": "Cilimus",
+      "country": "id"
+    },
+    {
+      "name": "Claxton",
+      "country": "us"
+    },
+    {
+      "name": "Colby (Wisconsin)",
+      "country": "us"
+    },
+    {
+      "name": "Cold Bokkeveld",
+      "country": "za"
+    },
+    {
+      "name": "Coleman",
+      "country": "us"
+    },
+    {
+      "name": "Collescipoli",
+      "country": "it"
+    },
+    {
+      "name": "Conquista",
+      "country": "br"
+    },
+    {
+      "name": "Cosina",
+      "country": "mx"
+    },
+    {
+      "name": "Cranganore",
+      "country": "in"
+    },
+    {
+      "name": "Crescent",
+      "country": "us"
+    },
+    {
+      "name": "Cronstad",
+      "country": "za"
+    },
+    {
+      "name": "Cross Roads",
+      "country": "us"
+    },
+    {
+      "name": "Crumlin",
+      "country": "gb"
+    },
+    {
+      "name": "Cumberland Falls",
+      "country": "us"
+    },
+    {
+      "name": "Cynthiana",
+      "country": "us"
+    },
+    {
+      "name": "Dahmani",
+      "country": "tn"
+    },
+    {
+      "name": "Dandapur",
+      "country": "in"
+    },
+    {
+      "name": "Daniel's Kuil",
+      "country": "za"
+    },
+    {
+      "name": "Danville",
+      "country": "us"
+    },
+    {
+      "name": "Darmstadt",
+      "country": "de"
+    },
+    {
+      "name": "Dashoguz",
+      "country": "tm"
+    },
+    {
+      "name": "Daule",
+      "country": "ec"
+    },
+    {
+      "name": "De Cewsville",
+      "country": "ca"
+    },
+    {
+      "name": "Deal",
+      "country": "us"
+    },
+    {
+      "name": "Delhi",
+      "country": "in"
+    },
+    {
+      "name": "Demina",
+      "country": "ru"
+    },
+    {
+      "name": "Denver",
+      "country": "us"
+    },
+    {
+      "name": "Dergaon",
+      "country": "in"
+    },
+    {
+      "name": "Desuri",
+      "country": "in"
+    },
+    {
+      "name": "Devgaon",
+      "country": "in"
+    },
+    {
+      "name": "Devri-Khera",
+      "country": "in"
+    },
+    {
+      "name": "Dhajala",
+      "country": "in"
+    },
+    {
+      "name": "Dharwar",
+      "country": "in"
+    },
+    {
+      "name": "Dhurmsala",
+      "country": "in"
+    },
+    {
+      "name": "Didim",
+      "country": "tr"
+    },
+    {
+      "name": "Diep River",
+      "country": "za"
+    },
+    {
+      "name": "Distrito Quebracho",
+      "country": "ar"
+    },
+    {
+      "name": "Djati-Pengilon",
+      "country": "id"
+    },
+    {
+      "name": "Djermaia",
+      "country": "td"
+    },
+    {
+      "name": "Djoumine",
+      "country": "tn"
+    },
+    {
+      "name": "Dokachi",
+      "country": "bd"
+    },
+    {
+      "name": "Dolgovoli",
+      "country": "ua"
+    },
+    {
+      "name": "Domanitch",
+      "country": "tr"
+    },
+    {
+      "name": "Dong Ujimqin Qi",
+      "country": "cn"
+    },
+    {
+      "name": "Donga Kohrod",
+      "country": "in"
+    },
+    {
+      "name": "Dongtai",
+      "country": "cn"
+    },
+    {
+      "name": "Doroninsk",
+      "country": "ru"
+    },
+    {
+      "name": "Dosso",
+      "country": "ne"
+    },
+    {
+      "name": "Douar Mghila",
+      "country": "ma"
+    },
+    {
+      "name": "Dowa",
+      "country": "mw"
+    },
+    {
+      "name": "Drake Creek",
+      "country": "us"
+    },
+    {
+      "name": "Dresden (Ontario)",
+      "country": "ca"
+    },
+    {
+      "name": "Dubrovnik",
+      "country": "hr"
+    },
+    {
+      "name": "Dunbogan",
+      "country": "au"
+    },
+    {
+      "name": "Dundrum",
+      "country": "ie"
+    },
+    {
+      "name": "Dunhua",
+      "country": "cn"
+    },
+    {
+      "name": "Durala",
+      "country": "in"
+    },
+    {
+      "name": "Duruma",
+      "country": "ke"
+    },
+    {
+      "name": "Dwaleni",
+      "country": "sz"
+    },
+    {
+      "name": "Dyalpur",
+      "country": "in"
+    },
+    {
+      "name": "Dyarrl Island",
+      "country": "pg"
+    },
+    {
+      "name": "Eagle",
+      "country": "us"
+    },
+    {
+      "name": "Ehole",
+      "country": "ao"
+    },
+    {
+      "name": "Eichstädt",
+      "country": "de"
+    },
+    {
+      "name": "Ekeby",
+      "country": "se"
+    },
+    {
+      "name": "Ekh Khera",
+      "country": "in"
+    },
+    {
+      "name": "El Idrissia",
+      "country": "dz"
+    },
+    {
+      "name": "El Paso de Aguila",
+      "country": "mx"
+    },
+    {
+      "name": "El Tigre",
+      "country": "mx"
+    },
+    {
+      "name": "Elbert",
+      "country": "us"
+    },
+    {
+      "name": "Elbogen",
+      "country": "cz"
+    },
+    {
+      "name": "Elenovka",
+      "country": "ua"
+    },
+    {
+      "name": "Ellemeet",
+      "country": "nl"
+    },
+    {
+      "name": "Emmaville",
+      "country": "au"
+    },
+    {
+      "name": "Enshi",
+      "country": "cn"
+    },
+    {
+      "name": "Ensisheim",
+      "country": "fr"
+    },
+    {
+      "name": "Épinal",
+      "country": "fr"
+    },
+    {
+      "name": "Erakot",
+      "country": "in"
+    },
+    {
+      "name": "Erevan",
+      "country": "am"
+    },
+    {
+      "name": "Ergheo",
+      "country": "so"
+    },
+    {
+      "name": "Erxleben",
+      "country": "de"
+    },
+    {
+      "name": "Esnandes",
+      "country": "fr"
+    },
+    {
+      "name": "Essebi",
+      "country": "cd"
+    },
+    {
+      "name": "Estherville",
+      "country": "us"
+    },
+    {
+      "name": "Farmington",
+      "country": "us"
+    },
+    {
+      "name": "Farmville",
+      "country": "us"
+    },
+    {
+      "name": "Favars",
+      "country": "fr"
+    },
+    {
+      "name": "Fayetteville",
+      "country": "us"
+    },
+    {
+      "name": "Feid Chair",
+      "country": "dz"
+    },
+    {
+      "name": "Felix",
+      "country": "us"
+    },
+    {
+      "name": "Fenghsien-Ku",
+      "country": "cn"
+    },
+    {
+      "name": "Ferguson",
+      "country": "us"
+    },
+    {
+      "name": "Fermo",
+      "country": "it"
+    },
+    {
+      "name": "Fisher",
+      "country": "us"
+    },
+    {
+      "name": "Florence",
+      "country": "us"
+    },
+    {
+      "name": "Forest City",
+      "country": "us"
+    },
+    {
+      "name": "Forest Vale",
+      "country": "au"
+    },
+    {
+      "name": "Forksville",
+      "country": "us"
+    },
+    {
+      "name": "Forsbach",
+      "country": "de"
+    },
+    {
+      "name": "Forsyth",
+      "country": "us"
+    },
+    {
+      "name": "Fort Flatters",
+      "country": "dz"
+    },
+    {
+      "name": "Frankfort (stone)",
+      "country": "us"
+    },
+    {
+      "name": "Fuhe",
+      "country": "cn"
+    },
+    {
+      "name": "Fukutomi",
+      "country": "jp"
+    },
+    {
+      "name": "Fünen",
+      "country": "dk"
+    },
+    {
+      "name": "Futtehpur",
+      "country": "in"
+    },
+    {
+      "name": "Fuyang",
+      "country": "cn"
+    },
+    {
+      "name": "Galapian",
+      "country": "fr"
+    },
+    {
+      "name": "Galim (a)",
+      "country": "cm"
+    },
+    {
+      "name": "Galim (b)",
+      "country": "cm"
+    },
+    {
+      "name": "Galkiv",
+      "country": "ua"
+    },
+    {
+      "name": "Gambat",
+      "country": "pk"
+    },
+    {
+      "name": "Gao-Guenie",
+      "country": "bf"
+    },
+    {
+      "name": "Garhi Yasin",
+      "country": "pk"
+    },
+    {
+      "name": "Garland",
+      "country": "us"
+    },
+    {
+      "name": "Gashua",
+      "country": "ng"
+    },
+    {
+      "name": "Gasseltepaoua",
+      "country": "bf"
+    },
+    {
+      "name": "Geidam",
+      "country": "ng"
+    },
+    {
+      "name": "Gifu",
+      "country": "jp"
+    },
+    {
+      "name": "Girgenti",
+      "country": "it"
+    },
+    {
+      "name": "Git-Git",
+      "country": "ng"
+    },
+    {
+      "name": "Glanerbrug",
+      "country": "nl"
+    },
+    {
+      "name": "Glanggang",
+      "country": "id"
+    },
+    {
+      "name": "Glasatovo",
+      "country": "ru"
+    },
+    {
+      "name": "Glatton",
+      "country": "gb"
+    },
+    {
+      "name": "Gnadenfrei",
+      "country": "pl"
+    },
+    {
+      "name": "Gopalpur",
+      "country": "bd"
+    },
+    {
+      "name": "Gorlovka",
+      "country": "ua"
+    },
+    {
+      "name": "Granes",
+      "country": "fr"
+    },
+    {
+      "name": "Grefsheim",
+      "country": "no"
+    },
+    {
+      "name": "Grimsby",
+      "country": "ca"
+    },
+    {
+      "name": "Grosnaja",
+      "country": "ru"
+    },
+    {
+      "name": "Gross-Divina",
+      "country": "sk"
+    },
+    {
+      "name": "Grossliebenthal",
+      "country": "ua"
+    },
+    {
+      "name": "Grüneberg",
+      "country": "pl"
+    },
+    {
+      "name": "Grzempach",
+      "country": "pl"
+    },
+    {
+      "name": "Gualeguaychú",
+      "country": "ar"
+    },
+    {
+      "name": "Guangmingshan",
+      "country": "cn"
+    },
+    {
+      "name": "Guangnan",
+      "country": "cn"
+    },
+    {
+      "name": "Guangrao",
+      "country": "cn"
+    },
+    {
+      "name": "Guareña",
+      "country": "es"
+    },
+    {
+      "name": "Guêa",
+      "country": "rs"
+    },
+    {
+      "name": "Guibga",
+      "country": "bf"
+    },
+    {
+      "name": "Guidder",
+      "country": "cm"
+    },
+    {
+      "name": "Gujargaon",
+      "country": "in"
+    },
+    {
+      "name": "Gujba",
+      "country": "ng"
+    },
+    {
+      "name": "Gumoschnik",
+      "country": "bg"
+    },
+    {
+      "name": "Gurram Konda",
+      "country": "in"
+    },
+    {
+      "name": "Gursum",
+      "country": "et"
+    },
+    {
+      "name": "Gütersloh",
+      "country": "de"
+    },
+    {
+      "name": "Gyokukei",
+      "country": "kr"
+    },
+    {
+      "name": "Hachi-oji",
+      "country": "jp"
+    },
+    {
+      "name": "Hainaut",
+      "country": "fr"
+    },
+    {
+      "name": "Hallingeberg",
+      "country": "se"
+    },
+    {
+      "name": "Hamlet",
+      "country": "us"
+    },
+    {
+      "name": "Haraiya",
+      "country": "in"
+    },
+    {
+      "name": "Haripura",
+      "country": "in"
+    },
+    {
+      "name": "Harleton",
+      "country": "us"
+    },
+    {
+      "name": "Harrison County",
+      "country": "us"
+    },
+    {
+      "name": "Hashima",
+      "country": "jp"
+    },
+    {
+      "name": "Hassi-Jekna",
+      "country": "dz"
+    },
+    {
+      "name": "Hatford",
+      "country": "gb"
+    },
+    {
+      "name": "Haverö",
+      "country": "fi"
+    },
+    {
+      "name": "Hedeskoga",
+      "country": "se"
+    },
+    {
+      "name": "Hedjaz",
+      "country": "sa"
+    },
+    {
+      "name": "Heredia",
+      "country": "cr"
+    },
+    {
+      "name": "Hessle",
+      "country": "se"
+    },
+    {
+      "name": "Higashi-koen",
+      "country": "jp"
+    },
+    {
+      "name": "High Possil",
+      "country": "gb"
+    },
+    {
+      "name": "Hiroshima",
+      "country": "jp"
+    },
+    {
+      "name": "Hoima",
+      "country": "ug"
+    },
+    {
+      "name": "Hökmark",
+      "country": "se"
+    },
+    {
+      "name": "Holbrook",
+      "country": "us"
+    },
+    {
+      "name": "Holetta",
+      "country": "et"
+    },
+    {
+      "name": "Homestead",
+      "country": "us"
+    },
+    {
+      "name": "Honolulu",
+      "country": "us"
+    },
+    {
+      "name": "Hotse",
+      "country": "cn"
+    },
+    {
+      "name": "Hoxie",
+      "country": "us"
+    },
+    {
+      "name": "Hraschina",
+      "country": "hr"
+    },
+    {
+      "name": "Huaxi",
+      "country": "cn"
+    },
+    {
+      "name": "Hungen",
+      "country": "de"
+    },
+    {
+      "name": "Hvittis",
+      "country": "fi"
+    },
+    {
+      "name": "Ibbenbüren",
+      "country": "de"
+    },
+    {
+      "name": "Ibitira",
+      "country": "br"
+    },
+    {
+      "name": "Ibrisim",
+      "country": "tr"
+    },
+    {
+      "name": "Ichkala",
+      "country": "ru"
+    },
+    {
+      "name": "Idutywa",
+      "country": "za"
+    },
+    {
+      "name": "Iguaracu",
+      "country": "br"
+    },
+    {
+      "name": "Ijopega",
+      "country": "pg"
+    },
+    {
+      "name": "Indarch",
+      "country": "az"
+    },
+    {
+      "name": "Independence",
+      "country": "us"
+    },
+    {
+      "name": "Inner Mongolia",
+      "country": "cn"
+    },
+    {
+      "name": "Innisfree",
+      "country": "ca"
+    },
+    {
+      "name": "Ipiranga",
+      "country": "br"
+    },
+    {
+      "name": "Ishinga",
+      "country": "tz"
+    },
+    {
+      "name": "Isthilart",
+      "country": "ar"
+    },
+    {
+      "name": "Itapicuru-Mirim",
+      "country": "br"
+    },
+    {
+      "name": "Itqiy",
+      "country": "ma"
+    },
+    {
+      "name": "Ivuna",
+      "country": "tz"
+    },
+    {
+      "name": "Jackalsfontein",
+      "country": "za"
+    },
+    {
+      "name": "Jajh deh Kot Lalu",
+      "country": "pk"
+    },
+    {
+      "name": "Jalandhar",
+      "country": "in"
+    },
+    {
+      "name": "Jamkheir",
+      "country": "in"
+    },
+    {
+      "name": "Jartai",
+      "country": "cn"
+    },
+    {
+      "name": "Jelica",
+      "country": "rs"
+    },
+    {
+      "name": "Jesenice",
+      "country": "si"
+    },
+    {
+      "name": "Jhung",
+      "country": "pk"
+    },
+    {
+      "name": "Jiange",
+      "country": "cn"
+    },
+    {
+      "name": "Jianshi",
+      "country": "cn"
+    },
+    {
+      "name": "Jilin",
+      "country": "cn"
+    },
+    {
+      "name": "Jodiya",
+      "country": "in"
+    },
+    {
+      "name": "Jodzie",
+      "country": "lt"
+    },
+    {
+      "name": "Johnstown",
+      "country": "us"
+    },
+    {
+      "name": "Jolomba",
+      "country": "ao"
+    },
+    {
+      "name": "Jonzac",
+      "country": "fr"
+    },
+    {
+      "name": "Juancheng",
+      "country": "cn"
+    },
+    {
+      "name": "Judesegeri",
+      "country": "in"
+    },
+    {
+      "name": "Jumapalo",
+      "country": "id"
+    },
+    {
+      "name": "Junan",
+      "country": "cn"
+    },
+    {
+      "name": "Juromenha",
+      "country": "pt"
+    },
+    {
+      "name": "Juvinas",
+      "country": "fr"
+    },
+    {
+      "name": "Kaba",
+      "country": "hu"
+    },
+    {
+      "name": "Kabo",
+      "country": "ng"
+    },
+    {
+      "name": "Kadonah",
+      "country": "in"
+    },
+    {
+      "name": "Kaee",
+      "country": "in"
+    },
+    {
+      "name": "Kagarlyk",
+      "country": "ua"
+    },
+    {
+      "name": "Kaidun",
+      "country": "ye"
+    },
+    {
+      "name": "Kainsaz",
+      "country": "ru"
+    },
+    {
+      "name": "Kakangari",
+      "country": "in"
+    },
+    {
+      "name": "Kakowa",
+      "country": "ro"
+    },
+    {
+      "name": "Kalaba",
+      "country": "cd"
+    },
+    {
+      "name": "Kalumbi",
+      "country": "in"
+    },
+    {
+      "name": "Kamalpur",
+      "country": "in"
+    },
+    {
+      "name": "Kamiomi",
+      "country": "jp"
+    },
+    {
+      "name": "Kamsagar",
+      "country": "in"
+    },
+    {
+      "name": "Kandahar (Afghanistan)",
+      "country": "af"
+    },
+    {
+      "name": "Kangean",
+      "country": "id"
+    },
+    {
+      "name": "Kangra Valley",
+      "country": "in"
+    },
+    {
+      "name": "Kapoeta",
+      "country": "ss"
+    },
+    {
+      "name": "Kaprada",
+      "country": "in"
+    },
+    {
+      "name": "Kaptal-Aryk",
+      "country": "kz"
+    },
+    {
+      "name": "Karakol",
+      "country": "kz"
+    },
+    {
+      "name": "Karatu",
+      "country": "tz"
+    },
+    {
+      "name": "Karewar",
+      "country": "ng"
+    },
+    {
+      "name": "Karkh",
+      "country": "pk"
+    },
+    {
+      "name": "Karloowala",
+      "country": "pk"
+    },
+    {
+      "name": "Karoonda",
+      "country": "au"
+    },
+    {
+      "name": "Kasamatsu",
+      "country": "jp"
+    },
+    {
+      "name": "Kasauli",
+      "country": "in"
+    },
+    {
+      "name": "Katagum",
+      "country": "ng"
+    },
+    {
+      "name": "Kavarpura",
+      "country": "in"
+    },
+    {
+      "name": "Kayakent",
+      "country": "tr"
+    },
+    {
+      "name": "Kediri",
+      "country": "id"
+    },
+    {
+      "name": "Kemer",
+      "country": "tr"
+    },
+    {
+      "name": "Kendleton",
+      "country": "us"
+    },
+    {
+      "name": "Kendrapara",
+      "country": "in"
+    },
+    {
+      "name": "Kerilis",
+      "country": "fr"
+    },
+    {
+      "name": "Kernouve",
+      "country": "fr"
+    },
+    {
+      "name": "Kesen",
+      "country": "jp"
+    },
+    {
+      "name": "Khairpur",
+      "country": "pk"
+    },
+    {
+      "name": "Khanpur",
+      "country": "in"
+    },
+    {
+      "name": "Kharkov",
+      "country": "ua"
+    },
+    {
+      "name": "Kheragur",
+      "country": "in"
+    },
+    {
+      "name": "Khetri",
+      "country": "in"
+    },
+    {
+      "name": "Khmelevka",
+      "country": "ru"
+    },
+    {
+      "name": "Khohar",
+      "country": "in"
+    },
+    {
+      "name": "Khor Temiki",
+      "country": "sd"
+    },
+    {
+      "name": "Kidairat",
+      "country": "sd"
+    },
+    {
+      "name": "Kiel",
+      "country": "de"
+    },
+    {
+      "name": "Kiffa",
+      "country": "mr"
+    },
+    {
+      "name": "Kijima (1906)",
+      "country": "jp"
+    },
+    {
+      "name": "Kikino",
+      "country": "ru"
+    },
+    {
+      "name": "Kilabo",
+      "country": "ng"
+    },
+    {
+      "name": "Kilbourn",
+      "country": "us"
+    },
+    {
+      "name": "Killeter",
+      "country": "gb"
+    },
+    {
+      "name": "Kingai",
+      "country": "sd"
+    },
+    {
+      "name": "Kirbyville",
+      "country": "us"
+    },
+    {
+      "name": "Kisvarsány",
+      "country": "hu"
+    },
+    {
+      "name": "Kitchener",
+      "country": "ca"
+    },
+    {
+      "name": "Klein-Wenden",
+      "country": "de"
+    },
+    {
+      "name": "Knyahinya",
+      "country": "sk"
+    },
+    {
+      "name": "Kobe",
+      "country": "jp"
+    },
+    {
+      "name": "Kokubunji",
+      "country": "jp"
+    },
+    {
+      "name": "Komagome",
+      "country": "jp"
+    },
+    {
+      "name": "Konovo",
+      "country": "bg"
+    },
+    {
+      "name": "Košice",
+      "country": "sk"
+    },
+    {
+      "name": "Krähenberg",
+      "country": "de"
+    },
+    {
+      "name": "Krasnoi-Ugol",
+      "country": "ru"
+    },
+    {
+      "name": "Krasnyi Klyuch",
+      "country": "ru"
+    },
+    {
+      "name": "Krutikha",
+      "country": "ru"
+    },
+    {
+      "name": "Krymka",
+      "country": "ua"
+    },
+    {
+      "name": "Kukschin",
+      "country": "ua"
+    },
+    {
+      "name": "Kulak",
+      "country": "pk"
+    },
+    {
+      "name": "Kuleschovka",
+      "country": "ua"
+    },
+    {
+      "name": "Kulp",
+      "country": "am"
+    },
+    {
+      "name": "Kunashak",
+      "country": "ru"
+    },
+    {
+      "name": "Kunya-Urgench",
+      "country": "tm"
+    },
+    {
+      "name": "Kushiike",
+      "country": "jp"
+    },
+    {
+      "name": "Kusiali",
+      "country": "in"
+    },
+    {
+      "name": "Kutais",
+      "country": "ru"
+    },
+    {
+      "name": "Kuttippuram",
+      "country": "in"
+    },
+    {
+      "name": "Kuznetzovo",
+      "country": "ru"
+    },
+    {
+      "name": "Kyushu",
+      "country": "jp"
+    },
+    {
+      "name": "La Bécasse",
+      "country": "fr"
+    },
+    {
+      "name": "La Charca",
+      "country": "mx"
+    },
+    {
+      "name": "La Colina",
+      "country": "ar"
+    },
+    {
+      "name": "La Criolla",
+      "country": "ar"
+    },
+    {
+      "name": "Laborel",
+      "country": "fr"
+    },
+    {
+      "name": "Lahrauli",
+      "country": "in"
+    },
+    {
+      "name": "L'Aigle",
+      "country": "fr"
+    },
+    {
+      "name": "Lakangaon",
+      "country": "in"
+    },
+    {
+      "name": "Lalitpur",
+      "country": "in"
+    },
+    {
+      "name": "Lancé",
+      "country": "fr"
+    },
+    {
+      "name": "Lancon",
+      "country": "fr"
+    },
+    {
+      "name": "Långhalsen",
+      "country": "se"
+    },
+    {
+      "name": "Lanxi",
+      "country": "cn"
+    },
+    {
+      "name": "Lanzenkirchen",
+      "country": "at"
+    },
+    {
+      "name": "Laochenzhen",
+      "country": "cn"
+    },
+    {
+      "name": "Launton",
+      "country": "gb"
+    },
+    {
+      "name": "Lavrentievka",
+      "country": "ru"
+    },
+    {
+      "name": "Le Pressoir",
+      "country": "fr"
+    },
+    {
+      "name": "Le Teilleul",
+      "country": "fr"
+    },
+    {
+      "name": "Leedey",
+      "country": "us"
+    },
+    {
+      "name": "Leeuwfontein",
+      "country": "za"
+    },
+    {
+      "name": "Leighlinbridge",
+      "country": "ie"
+    },
+    {
+      "name": "Leighton",
+      "country": "us"
+    },
+    {
+      "name": "Leonovka",
+      "country": "ua"
+    },
+    {
+      "name": "Les Ormes",
+      "country": "fr"
+    },
+    {
+      "name": "Lesves",
+      "country": "be"
+    },
+    {
+      "name": "Lichtenberg",
+      "country": "za"
+    },
+    {
+      "name": "Lillaverke",
+      "country": "se"
+    },
+    {
+      "name": "Limerick",
+      "country": "ie"
+    },
+    {
+      "name": "Linum",
+      "country": "de"
+    },
+    {
+      "name": "Lishui",
+      "country": "cn"
+    },
+    {
+      "name": "Lissa",
+      "country": "cz"
+    },
+    {
+      "name": "Little Piney",
+      "country": "us"
+    },
+    {
+      "name": "Lixna",
+      "country": "lv"
+    },
+    {
+      "name": "Lodran",
+      "country": "pk"
+    },
+    {
+      "name": "Lohawat",
+      "country": "in"
+    },
+    {
+      "name": "Lorton",
+      "country": "us"
+    },
+    {
+      "name": "Los Martinez",
+      "country": "es"
+    },
+    {
+      "name": "Lost City",
+      "country": "us"
+    },
+    {
+      "name": "Louisville",
+      "country": "us"
+    },
+    {
+      "name": "Łowicz",
+      "country": "pl"
+    },
+    {
+      "name": "Lua",
+      "country": "in"
+    },
+    {
+      "name": "Lucé",
+      "country": "fr"
+    },
+    {
+      "name": "Lumpkin",
+      "country": "us"
+    },
+    {
+      "name": "Lunan",
+      "country": "cn"
+    },
+    {
+      "name": "Lundsgård",
+      "country": "se"
+    },
+    {
+      "name": "Luotolax",
+      "country": "fi"
+    },
+    {
+      "name": "Luponnas",
+      "country": "fr"
+    },
+    {
+      "name": "Lusaka",
+      "country": "cd"
+    },
+    {
+      "name": "Mabwe-Khoywa",
+      "country": "mm"
+    },
+    {
+      "name": "Macau",
+      "country": "br"
+    },
+    {
+      "name": "Machinga",
+      "country": "mw"
+    },
+    {
+      "name": "Macibini",
+      "country": "za"
+    },
+    {
+      "name": "Madhipura",
+      "country": "in"
+    },
+    {
+      "name": "Madiun",
+      "country": "id"
+    },
+    {
+      "name": "Madrid",
+      "country": "es"
+    },
+    {
+      "name": "Mafra",
+      "country": "br"
+    },
+    {
+      "name": "Magnesia",
+      "country": "tr"
+    },
+    {
+      "name": "Magombedze",
+      "country": "zw"
+    },
+    {
+      "name": "Mahadevpur",
+      "country": "in"
+    },
+    {
+      "name": "Maigatari-Danduma",
+      "country": "ne"
+    },
+    {
+      "name": "Malaga",
+      "country": "us"
+    },
+    {
+      "name": "Malakal",
+      "country": "ss"
+    },
+    {
+      "name": "Malampaka",
+      "country": "tz"
+    },
+    {
+      "name": "Malotas",
+      "country": "ar"
+    },
+    {
+      "name": "Malvern",
+      "country": "za"
+    },
+    {
+      "name": "Mamra Springs",
+      "country": "kz"
+    },
+    {
+      "name": "Manbhoom",
+      "country": "in"
+    },
+    {
+      "name": "Manegaon",
+      "country": "in"
+    },
+    {
+      "name": "Mangwendi",
+      "country": "zw"
+    },
+    {
+      "name": "Manych",
+      "country": "ru"
+    },
+    {
+      "name": "Mardan",
+      "country": "pk"
+    },
+    {
+      "name": "Mariaville",
+      "country": "us"
+    },
+    {
+      "name": "Maribo",
+      "country": "dk"
+    },
+    {
+      "name": "Maridi",
+      "country": "ss"
+    },
+    {
+      "name": "Marilia",
+      "country": "br"
+    },
+    {
+      "name": "Marion (Iowa)",
+      "country": "us"
+    },
+    {
+      "name": "Marjalahti",
+      "country": "ru"
+    },
+    {
+      "name": "Marmande",
+      "country": "fr"
+    },
+    {
+      "name": "Maromandia",
+      "country": "mg"
+    },
+    {
+      "name": "Maryville",
+      "country": "us"
+    },
+    {
+      "name": "Mascombes",
+      "country": "fr"
+    },
+    {
+      "name": "Mason Gully"
+    },
+    {
+      "name": "Mässing",
+      "country": "de"
+    },
+    {
+      "name": "Mauerkirchen",
+      "country": "at"
+    },
+    {
+      "name": "Mayo Belwa",
+      "country": "ng"
+    },
+    {
+      "name": "Mazapil",
+      "country": "mx"
+    },
+    {
+      "name": "Maziba",
+      "country": "ug"
+    },
+    {
+      "name": "Mbale",
+      "country": "ug"
+    },
+    {
+      "name": "Medanitos",
+      "country": "ar"
+    },
+    {
+      "name": "Meerut",
+      "country": "in"
+    },
+    {
+      "name": "Meester-Cornelis",
+      "country": "id"
+    },
+    {
+      "name": "Menow",
+      "country": "de"
+    },
+    {
+      "name": "Menziswyl",
+      "country": "ch"
+    },
+    {
+      "name": "Mern",
+      "country": "dk"
+    },
+    {
+      "name": "Meru",
+      "country": "ke"
+    },
+    {
+      "name": "Merua",
+      "country": "in"
+    },
+    {
+      "name": "Messina",
+      "country": "it"
+    },
+    {
+      "name": "Meuselbach",
+      "country": "de"
+    },
+    {
+      "name": "Mezel",
+      "country": "fr"
+    },
+    {
+      "name": "Mezö-Madaras",
+      "country": "ro"
+    },
+    {
+      "name": "Mhow",
+      "country": "in"
+    },
+    {
+      "name": "Mianchi",
+      "country": "cn"
+    },
+    {
+      "name": "Middlesbrough",
+      "country": "gb"
+    },
+    {
+      "name": "Mifflin",
+      "country": "us"
+    },
+    {
+      "name": "Mighei",
+      "country": "ua"
+    },
+    {
+      "name": "Mihonoseki",
+      "country": "jp"
+    },
+    {
+      "name": "Mike",
+      "country": "hu"
+    },
+    {
+      "name": "Milena",
+      "country": "hr"
+    },
+    {
+      "name": "Millbillillie",
+      "country": "au"
+    },
+    {
+      "name": "Miller (Arkansas)",
+      "country": "us"
+    },
+    {
+      "name": "Minamino",
+      "country": "jp"
+    },
+    {
+      "name": "Mineo",
+      "country": "it"
+    },
+    {
+      "name": "Min-Fan-Zhun",
+      "country": "cn"
+    },
+    {
+      "name": "Minnichhof",
+      "country": "hu"
+    },
+    {
+      "name": "Mirzapur",
+      "country": "in"
+    },
+    {
+      "name": "Misshof",
+      "country": "lv"
+    },
+    {
+      "name": "Mjelleim",
+      "country": "no"
+    },
+    {
+      "name": "Mocs",
+      "country": "ro"
+    },
+    {
+      "name": "Modoc (1905)",
+      "country": "us"
+    },
+    {
+      "name": "Mokoia",
+      "country": "nz"
+    },
+    {
+      "name": "Molina",
+      "country": "es"
+    },
+    {
+      "name": "Molteno",
+      "country": "za"
+    },
+    {
+      "name": "Monahans (1998)",
+      "country": "us"
+    },
+    {
+      "name": "Monroe",
+      "country": "us"
+    },
+    {
+      "name": "Monte das Fortes",
+      "country": "pt"
+    },
+    {
+      "name": "Monte Milone",
+      "country": "it"
+    },
+    {
+      "name": "Montferré",
+      "country": "fr"
+    },
+    {
+      "name": "Montlivault",
+      "country": "fr"
+    },
+    {
+      "name": "Monze",
+      "country": "zm"
+    },
+    {
+      "name": "Moore County",
+      "country": "us"
+    },
+    {
+      "name": "Mooresfort",
+      "country": "ie"
+    },
+    {
+      "name": "Moorleah",
+      "country": "au"
+    },
+    {
+      "name": "Moradabad",
+      "country": "in"
+    },
+    {
+      "name": "Morávka",
+      "country": "cz"
+    },
+    {
+      "name": "Mornans",
+      "country": "fr"
+    },
+    {
+      "name": "Moss",
+      "country": "no"
+    },
+    {
+      "name": "Moti-ka-nagla",
+      "country": "in"
+    },
+    {
+      "name": "Motta di Conti",
+      "country": "it"
+    },
+    {
+      "name": "Mount Browne",
+      "country": "au"
+    },
+    {
+      "name": "Mount Tazerzait",
+      "country": "ne"
+    },
+    {
+      "name": "Mount Vaisi",
+      "country": "fr"
+    },
+    {
+      "name": "Mtola",
+      "country": "mw"
+    },
+    {
+      "name": "Muddoor",
+      "country": "in"
+    },
+    {
+      "name": "Mulletiwu",
+      "country": "lk"
+    },
+    {
+      "name": "Muraid",
+      "country": "bd"
+    },
+    {
+      "name": "Murchison",
+      "country": "au"
+    },
+    {
+      "name": "Murray",
+      "country": "us"
+    },
+    {
+      "name": "Muzaffarpur",
+      "country": "in"
+    },
+    {
+      "name": "Myhee Caunta",
+      "country": "in"
+    },
+    {
+      "name": "Nadiabondi",
+      "country": "bf"
+    },
+    {
+      "name": "Nagai",
+      "country": "jp"
+    },
+    {
+      "name": "Nagaria",
+      "country": "in"
+    },
+    {
+      "name": "Nagy-Borové",
+      "country": "sk"
+    },
+    {
+      "name": "Nakhla",
+      "country": "eg"
+    },
+    {
+      "name": "Nakhon Pathom",
+      "country": "th"
+    },
+    {
+      "name": "Nammianthal",
+      "country": "in"
+    },
+    {
+      "name": "Nan Yang Pao",
+      "country": "cn"
+    },
+    {
+      "name": "Nanjemoy",
+      "country": "us"
+    },
+    {
+      "name": "Nantong",
+      "country": "cn"
+    },
+    {
+      "name": "Naoki",
+      "country": "in"
+    },
+    {
+      "name": "Naragh",
+      "country": "ir"
+    },
+    {
+      "name": "Narellan",
+      "country": "au"
+    },
+    {
+      "name": "Narni",
+      "country": "it"
+    },
+    {
+      "name": "Nassirah",
+      "country": "fr"
+    },
+    {
+      "name": "Nawapali",
+      "country": "in"
+    },
+    {
+      "name": "Neagari",
+      "country": "jp"
+    },
+    {
+      "name": "Nedagolla",
+      "country": "in"
+    },
+    {
+      "name": "Nejo",
+      "country": "et"
+    },
+    {
+      "name": "Nerft",
+      "country": "lv"
+    },
+    {
+      "name": "Neuschwanstein",
+      "country": "at"
+    },
+    {
+      "name": "New Concord",
+      "country": "us"
+    },
+    {
+      "name": "New Halfa",
+      "country": "sd"
+    },
+    {
+      "name": "New Orleans",
+      "country": "us"
+    },
+    {
+      "name": "Ngawi",
+      "country": "id"
+    },
+    {
+      "name": "N'Goureyma",
+      "country": "ml"
+    },
+    {
+      "name": "Nicorps",
+      "country": "fr"
+    },
+    {
+      "name": "Nikolaevka",
+      "country": "kz"
+    },
+    {
+      "name": "Nikolskoe",
+      "country": "ru"
+    },
+    {
+      "name": "Ningbo",
+      "country": "cn"
+    },
+    {
+      "name": "Ningqiang",
+      "country": "cn"
+    },
+    {
+      "name": "Nio",
+      "country": "jp"
+    },
+    {
+      "name": "N'Kandhla",
+      "country": "za"
+    },
+    {
+      "name": "Nobleborough",
+      "country": "us"
+    },
+    {
+      "name": "Noblesville",
+      "country": "us"
+    },
+    {
+      "name": "Nogata",
+      "country": "jp"
+    },
+    {
+      "name": "Nogoya",
+      "country": "ar"
+    },
+    {
+      "name": "Norfork",
+      "country": "us"
+    },
+    {
+      "name": "Norton County",
+      "country": "us"
+    },
+    {
+      "name": "Noventa Vicentina",
+      "country": "it"
+    },
+    {
+      "name": "Novo-Urei",
+      "country": "ru"
+    },
+    {
+      "name": "Novy-Ergi",
+      "country": "ru"
+    },
+    {
+      "name": "Novy-Projekt",
+      "country": "lt"
+    },
+    {
+      "name": "Noyan-Bogdo",
+      "country": "mn"
+    },
+    {
+      "name": "Nuevo Mercurio",
+      "country": "mx"
+    },
+    {
+      "name": "Nulles",
+      "country": "es"
+    },
+    {
+      "name": "Numakai",
+      "country": "jp"
+    },
+    {
+      "name": "Nyaung",
+      "country": "mm"
+    },
+    {
+      "name": "Nyirábrany",
+      "country": "hu"
+    },
+    {
+      "name": "Ochansk",
+      "country": "ru"
+    },
+    {
+      "name": "Oesede",
+      "country": "de"
+    },
+    {
+      "name": "Oesel",
+      "country": "ee"
+    },
+    {
+      "name": "Ofehértó",
+      "country": "hu"
+    },
+    {
+      "name": "Ogi",
+      "country": "jp"
+    },
+    {
+      "name": "Ohaba",
+      "country": "ro"
+    },
+    {
+      "name": "Ohuma",
+      "country": "ng"
+    },
+    {
+      "name": "Ojuelos Altos",
+      "country": "es"
+    },
+    {
+      "name": "Okabe",
+      "country": "jp"
+    },
+    {
+      "name": "Okano",
+      "country": "jp"
+    },
+    {
+      "name": "Okniny",
+      "country": "ua"
+    },
+    {
+      "name": "Oldenburg (1930)",
+      "country": "de"
+    },
+    {
+      "name": "Oliva-Gandia",
+      "country": "es"
+    },
+    {
+      "name": "Olivenza",
+      "country": "es"
+    },
+    {
+      "name": "Olmedilla de Alarcón",
+      "country": "es"
+    },
+    {
+      "name": "Omolon",
+      "country": "ru"
+    },
+    {
+      "name": "Orgueil",
+      "country": "fr"
+    },
+    {
+      "name": "Orlando",
+      "country": "us"
+    },
+    {
+      "name": "Ornans",
+      "country": "fr"
+    },
+    {
+      "name": "Ortenau",
+      "country": "de"
+    },
+    {
+      "name": "Orvinio",
+      "country": "it"
+    },
+    {
+      "name": "Oterøy",
+      "country": "no"
+    },
+    {
+      "name": "Otomi",
+      "country": "jp"
+    },
+    {
+      "name": "Ottawa",
+      "country": "us"
+    },
+    {
+      "name": "Ouadangou",
+      "country": "bf"
+    },
+    {
+      "name": "Oued el Hadjar",
+      "country": "ma"
+    },
+    {
+      "name": "Oum Dreyga",
+      "country": "ma"
+    },
+    {
+      "name": "Ourique",
+      "country": "pt"
+    },
+    {
+      "name": "Ovambo",
+      "country": "na"
+    },
+    {
+      "name": "Oviedo",
+      "country": "es"
+    },
+    {
+      "name": "Owrucz",
+      "country": "ua"
+    },
+    {
+      "name": "Pacula",
+      "country": "mx"
+    },
+    {
+      "name": "Padvarninkai",
+      "country": "lt"
+    },
+    {
+      "name": "Paitan",
+      "country": "ph"
+    },
+    {
+      "name": "Palahatchie",
+      "country": "us"
+    },
+    {
+      "name": "Palca de Aparzo",
+      "country": "ar"
+    },
+    {
+      "name": "Palinshih",
+      "country": "cn"
+    },
+    {
+      "name": "Palmyra",
+      "country": "us"
+    },
+    {
+      "name": "Palolo Valley",
+      "country": "us"
+    },
+    {
+      "name": "Pampanga",
+      "country": "ph"
+    },
+    {
+      "name": "Pantar",
+      "country": "ph"
+    },
+    {
+      "name": "Paragould",
+      "country": "us"
+    },
+    {
+      "name": "Parambu",
+      "country": "br"
+    },
+    {
+      "name": "Paranaiba",
+      "country": "br"
+    },
+    {
+      "name": "Park Forest",
+      "country": "us"
+    },
+    {
+      "name": "Parnallee",
+      "country": "in"
+    },
+    {
+      "name": "Parsa",
+      "country": "in"
+    },
+    {
+      "name": "Pasamonte",
+      "country": "us"
+    },
+    {
+      "name": "Patora",
+      "country": "in"
+    },
+    {
+      "name": "Patrimonio",
+      "country": "br"
+    },
+    {
+      "name": "Patti",
+      "country": "it"
+    },
+    {
+      "name": "Patwar",
+      "country": "bd"
+    },
+    {
+      "name": "Pavel",
+      "country": "bg"
+    },
+    {
+      "name": "Pavlodar (stone)",
+      "country": "kz"
+    },
+    {
+      "name": "Pavlograd",
+      "country": "ua"
+    },
+    {
+      "name": "Pavlovka",
+      "country": "ru"
+    },
+    {
+      "name": "Pê",
+      "country": "bf"
+    },
+    {
+      "name": "Peace River",
+      "country": "ca"
+    },
+    {
+      "name": "Peckelsheim",
+      "country": "de"
+    },
+    {
+      "name": "Peekskill",
+      "country": "us"
+    },
+    {
+      "name": "Peña Blanca Spring",
+      "country": "us"
+    },
+    {
+      "name": "Peramiho",
+      "country": "tz"
+    },
+    {
+      "name": "Perpeti",
+      "country": "bd"
+    },
+    {
+      "name": "Perth",
+      "country": "gb"
+    },
+    {
+      "name": "Pervomaisky",
+      "country": "ru"
+    },
+    {
+      "name": "Pesyanoe",
+      "country": "ru"
+    },
+    {
+      "name": "Pétèlkolé",
+      "country": "ne"
+    },
+    {
+      "name": "Petersburg",
+      "country": "us"
+    },
+    {
+      "name": "Pettiswood",
+      "country": "ie"
+    },
+    {
+      "name": "Phillips County (stone)",
+      "country": "us"
+    },
+    {
+      "name": "Phu Hong",
+      "country": "vn"
+    },
+    {
+      "name": "Phum Sambo",
+      "country": "kh"
+    },
+    {
+      "name": "Phuoc-Binh",
+      "country": "vn"
+    },
+    {
+      "name": "Piancaldoli",
+      "country": "it"
+    },
+    {
+      "name": "Picote",
+      "country": "es"
+    },
+    {
+      "name": "Pillistfer",
+      "country": "ee"
+    },
+    {
+      "name": "Piplia Kalan",
+      "country": "in"
+    },
+    {
+      "name": "Piquetberg",
+      "country": "za"
+    },
+    {
+      "name": "Pirgunje",
+      "country": "bd"
+    },
+    {
+      "name": "Pirthalla",
+      "country": "in"
+    },
+    {
+      "name": "Pitts",
+      "country": "us"
+    },
+    {
+      "name": "Plantersville",
+      "country": "us"
+    },
+    {
+      "name": "Pleşcoi",
+      "country": "ro"
+    },
+    {
+      "name": "Ploschkovitz",
+      "country": "cz"
+    },
+    {
+      "name": "Pnompehn",
+      "country": "kh"
+    },
+    {
+      "name": "Pohlitz",
+      "country": "de"
+    },
+    {
+      "name": "Pokhra",
+      "country": "in"
+    },
+    {
+      "name": "Pollen",
+      "country": "no"
+    },
+    {
+      "name": "Pontlyfni",
+      "country": "gb"
+    },
+    {
+      "name": "Portales Valley",
+      "country": "us"
+    },
+    {
+      "name": "Portugal",
+      "country": "pt"
+    },
+    {
+      "name": "Po-wang Chen",
+      "country": "cn"
+    },
+    {
+      "name": "Prambachkirchen",
+      "country": "at"
+    },
+    {
+      "name": "Pribram",
+      "country": "cz"
+    },
+    {
+      "name": "Pricetown",
+      "country": "us"
+    },
+    {
+      "name": "Puerto Lápice",
+      "country": "es"
+    },
+    {
+      "name": "Pulsora",
+      "country": "in"
+    },
+    {
+      "name": "Pultusk",
+      "country": "pl"
+    },
+    {
+      "name": "Punganaru",
+      "country": "in"
+    },
+    {
+      "name": "Putinga",
+      "country": "br"
+    },
+    {
+      "name": "Qidong",
+      "country": "cn"
+    },
+    {
+      "name": "Qingzhen",
+      "country": "cn"
+    },
+    {
+      "name": "Queen's Mercy",
+      "country": "ls"
+    },
+    {
+      "name": "Quenggouk",
+      "country": "mm"
+    },
+    {
+      "name": "Quesa",
+      "country": "es"
+    },
+    {
+      "name": "Quija",
+      "country": "cn"
+    },
+    {
+      "name": "Quincay",
+      "country": "fr"
+    },
+    {
+      "name": "Raco",
+      "country": "ar"
+    },
+    {
+      "name": "Raghunathpura",
+      "country": "in"
+    },
+    {
+      "name": "Rahimyar Khan",
+      "country": "pk"
+    },
+    {
+      "name": "Rakovka",
+      "country": "ru"
+    },
+    {
+      "name": "Ramnagar",
+      "country": "in"
+    },
+    {
+      "name": "Rampurhat",
+      "country": "in"
+    },
+    {
+      "name": "Ramsdorf",
+      "country": "de"
+    },
+    {
+      "name": "Ranchapur",
+      "country": "in"
+    },
+    {
+      "name": "Rancho de la Presa",
+      "country": "mx"
+    },
+    {
+      "name": "Rangala",
+      "country": "in"
+    },
+    {
+      "name": "Raoyang",
+      "country": "cn"
+    },
+    {
+      "name": "Ras Tanura",
+      "country": "sa"
+    },
+    {
+      "name": "Rasgrad",
+      "country": "bg"
+    },
+    {
+      "name": "Ratyn",
+      "country": "pl"
+    },
+    {
+      "name": "Red Canyon Lake",
+      "country": "us"
+    },
+    {
+      "name": "Reliegos",
+      "country": "es"
+    },
+    {
+      "name": "Rembang",
+      "country": "id"
+    },
+    {
+      "name": "Renazzo",
+      "country": "it"
+    },
+    {
+      "name": "Renca",
+      "country": "ar"
+    },
+    {
+      "name": "Renqiu",
+      "country": "cn"
+    },
+    {
+      "name": "Repeev Khutor",
+      "country": "ru"
+    },
+    {
+      "name": "Revelstoke",
+      "country": "ca"
+    },
+    {
+      "name": "Rewari",
+      "country": "in"
+    },
+    {
+      "name": "Rich Mountain",
+      "country": "us"
+    },
+    {
+      "name": "Uzcudun",
+      "country": "ar"
+    },
+    {
+      "name": "Richardton",
+      "country": "us"
+    },
+    {
+      "name": "Richland Springs",
+      "country": "us"
+    },
+    {
+      "name": "Richmond",
+      "country": "us"
+    },
+    {
+      "name": "Rio Negro",
+      "country": "br"
+    },
+    {
+      "name": "Rivolta de Bassi",
+      "country": "it"
+    },
+    {
+      "name": "Rochester",
+      "country": "us"
+    },
+    {
+      "name": "Rockhampton",
+      "country": "au"
+    },
+    {
+      "name": "Roda",
+      "country": "es"
+    },
+    {
+      "name": "Rodach",
+      "country": "de"
+    },
+    {
+      "name": "Rose City",
+      "country": "us"
+    },
+    {
+      "name": "Rowton",
+      "country": "gb"
+    },
+    {
+      "name": "Ruhobobo",
+      "country": "rw"
+    },
+    {
+      "name": "Rumuruti",
+      "country": "ke"
+    },
+    {
+      "name": "Rupota",
+      "country": "tz"
+    },
+    {
+      "name": "Ryechki",
+      "country": "ua"
+    },
+    {
+      "name": "Sabetmahet",
+      "country": "in"
+    },
+    {
+      "name": "Sabrum",
+      "country": "in"
+    },
+    {
+      "name": "Sagan",
+      "country": "pl"
+    },
+    {
+      "name": "Saint-Sauveur",
+      "country": "fr"
+    },
+    {
+      "name": "Saint-Séverin",
+      "country": "fr"
+    },
+    {
+      "name": "Sakauchi",
+      "country": "jp"
+    },
+    {
+      "name": "Salem",
+      "country": "us"
+    },
+    {
+      "name": "Salles",
+      "country": "fr"
+    },
+    {
+      "name": "Salzwedel",
+      "country": "de"
+    },
+    {
+      "name": "Samelia",
+      "country": "in"
+    },
+    {
+      "name": "San Juan Capistrano",
+      "country": "us"
+    },
+    {
+      "name": "San Michele",
+      "country": "it"
+    },
+    {
+      "name": "San Pedro de Quiles",
+      "country": "cl"
+    },
+    {
+      "name": "San Pedro Jacuaro",
+      "country": "mx"
+    },
+    {
+      "name": "Santa Barbara",
+      "country": "br"
+    },
+    {
+      "name": "Santa Cruz",
+      "country": "mx"
+    },
+    {
+      "name": "Santa Isabel",
+      "country": "ar"
+    },
+    {
+      "name": "Santa Lucia (2008)",
+      "country": "ar"
+    },
+    {
+      "name": "São Jose do Rio Preto",
+      "country": "br"
+    },
+    {
+      "name": "Saratov",
+      "country": "ru"
+    },
+    {
+      "name": "Sasagase",
+      "country": "jp"
+    },
+    {
+      "name": "Sauguis",
+      "country": "fr"
+    },
+    {
+      "name": "Savtschenskoje",
+      "country": "ua"
+    },
+    {
+      "name": "Sayama",
+      "country": "jp"
+    },
+    {
+      "name": "Sazovice",
+      "country": "cz"
+    },
+    {
+      "name": "Schellin",
+      "country": "pl"
+    },
+    {
+      "name": "Schenectady",
+      "country": "us"
+    },
+    {
+      "name": "Schönenberg",
+      "country": "de"
+    },
+    {
+      "name": "Searsmont",
+      "country": "us"
+    },
+    {
+      "name": "Sediköy",
+      "country": "tr"
+    },
+    {
+      "name": "Segowlie",
+      "country": "in"
+    },
+    {
+      "name": "Selakopi",
+      "country": "id"
+    },
+    {
+      "name": "Seldebourak",
+      "country": "dz"
+    },
+    {
+      "name": "Semarkona",
+      "country": "in"
+    },
+    {
+      "name": "Sena",
+      "country": "es"
+    },
+    {
+      "name": "Senboku",
+      "country": "jp"
+    },
+    {
+      "name": "Seoni",
+      "country": "in"
+    },
+    {
+      "name": "Seres",
+      "country": "gr"
+    },
+    {
+      "name": "Serra de Magé",
+      "country": "br"
+    },
+    {
+      "name": "Sete Lagoas",
+      "country": "br"
+    },
+    {
+      "name": "Sevilla",
+      "country": "es"
+    },
+    {
+      "name": "Sevrukovo",
+      "country": "ru"
+    },
+    {
+      "name": "Sfax",
+      "country": "tn"
+    },
+    {
+      "name": "Shalka",
+      "country": "in"
+    },
+    {
+      "name": "Sharps",
+      "country": "us"
+    },
+    {
+      "name": "Shelburne",
+      "country": "ca"
+    },
+    {
+      "name": "Shergotty",
+      "country": "in"
+    },
+    {
+      "name": "Sheyang",
+      "country": "cn"
+    },
+    {
+      "name": "Shikarpur",
+      "country": "in"
+    },
+    {
+      "name": "Shuangyang",
+      "country": "cn"
+    },
+    {
+      "name": "Shupiyan",
+      "country": "in"
+    },
+    {
+      "name": "Shytal",
+      "country": "bd"
+    },
+    {
+      "name": "Siena",
+      "country": "it"
+    },
+    {
+      "name": "Sikhote-Alin",
+      "country": "ru"
+    },
+    {
+      "name": "Silao",
+      "country": "mx"
+    },
+    {
+      "name": "Silistra",
+      "country": "bg"
+    },
+    {
+      "name": "Simmern",
+      "country": "de"
+    },
+    {
+      "name": "Sinai",
+      "country": "eg"
+    },
+    {
+      "name": "Sindhri",
+      "country": "pk"
+    },
+    {
+      "name": "Sinnai",
+      "country": "it"
+    },
+    {
+      "name": "Sioux County",
+      "country": "us"
+    },
+    {
+      "name": "Sitathali",
+      "country": "in"
+    },
+    {
+      "name": "Sivas",
+      "country": "tr"
+    },
+    {
+      "name": "Sixiangkou",
+      "country": "cn"
+    },
+    {
+      "name": "Ski",
+      "country": "no"
+    },
+    {
+      "name": "Slavetic",
+      "country": "hr"
+    },
+    {
+      "name": "Slobodka",
+      "country": "ru"
+    },
+    {
+      "name": "Soheria",
+      "country": "in"
+    },
+    {
+      "name": "Soko-Banja",
+      "country": "rs"
+    },
+    {
+      "name": "Sologne",
+      "country": "fr"
+    },
+    {
+      "name": "Sołtmany",
+      "country": "pl"
+    },
+    {
+      "name": "Sone",
+      "country": "jp"
+    },
+    {
+      "name": "Songyuan",
+      "country": "cn"
+    },
+    {
+      "name": "Sopot",
+      "country": "ro"
+    },
+    {
+      "name": "Soroti",
+      "country": "ug"
+    },
+    {
+      "name": "St. Caprais-de-Quinsac",
+      "country": "fr"
+    },
+    {
+      "name": "St. Christophe-la-Chartreuse",
+      "country": "fr"
+    },
+    {
+      "name": "St. Denis Westrem",
+      "country": "be"
+    },
+    {
+      "name": "St. Germain-du-Pinel",
+      "country": "fr"
+    },
+    {
+      "name": "St. Louis",
+      "country": "us"
+    },
+    {
+      "name": "St. Mark's",
+      "country": "za"
+    },
+    {
+      "name": "St. Mary's County",
+      "country": "us"
+    },
+    {
+      "name": "St. Mesmin",
+      "country": "fr"
+    },
+    {
+      "name": "St. Michel",
+      "country": "fi"
+    },
+    {
+      "name": "St.-Chinian",
+      "country": "fr"
+    },
+    {
+      "name": "Ställdalen",
+      "country": "se"
+    },
+    {
+      "name": "Stannern",
+      "country": "cz"
+    },
+    {
+      "name": "Stavropol",
+      "country": "ru"
+    },
+    {
+      "name": "Ste. Marguerite",
+      "country": "be"
+    },
+    {
+      "name": "Sterlitamak",
+      "country": "ru"
+    },
+    {
+      "name": "Stolzenau",
+      "country": "de"
+    },
+    {
+      "name": "Stratford",
+      "country": "us"
+    },
+    {
+      "name": "Strathmore",
+      "country": "gb"
+    },
+    {
+      "name": "Stretchleigh",
+      "country": "gb"
+    },
+    {
+      "name": "St-Robert",
+      "country": "ca"
+    },
+    {
+      "name": "Success",
+      "country": "us"
+    },
+    {
+      "name": "Suchy Dul",
+      "country": "cz"
+    },
+    {
+      "name": "Suizhou",
+      "country": "cn"
+    },
+    {
+      "name": "Sulagiri",
+      "country": "in"
+    },
+    {
+      "name": "Sultanpur",
+      "country": "in"
+    },
+    {
+      "name": "Sungach",
+      "country": "ru"
+    },
+    {
+      "name": "Supuhee",
+      "country": "in"
+    },
+    {
+      "name": "Sutter's Mill",
+      "country": "us"
+    },
+    {
+      "name": "Sylacauga",
+      "country": "us"
+    },
+    {
+      "name": "Tabor",
+      "country": "cz"
+    },
+    {
+      "name": "Tadjera",
+      "country": "dz"
+    },
+    {
+      "name": "Tagish Lake",
+      "country": "ca"
+    },
+    {
+      "name": "Tahara",
+      "country": "jp"
+    },
+    {
+      "name": "Takenouchi",
+      "country": "jp"
+    },
+    {
+      "name": "Tambakwatu",
+      "country": "id"
+    },
+    {
+      "name": "Tamdakht",
+      "country": "ma"
+    },
+    {
+      "name": "Tané",
+      "country": "jp"
+    },
+    {
+      "name": "Taonan",
+      "country": "cn"
+    },
+    {
+      "name": "Tatahouine",
+      "country": "tn"
+    },
+    {
+      "name": "Tathlith",
+      "country": "sa"
+    },
+    {
+      "name": "Tauk",
+      "country": "iq"
+    },
+    {
+      "name": "Tauti",
+      "country": "ro"
+    },
+    {
+      "name": "Tenham",
+      "country": "au"
+    },
+    {
+      "name": "Tennasilm",
+      "country": "ee"
+    },
+    {
+      "name": "Thal",
+      "country": "pk"
+    },
+    {
+      "name": "Thika",
+      "country": "ke"
+    },
+    {
+      "name": "Thuathe",
+      "country": "ls"
+    },
+    {
+      "name": "Tianzhang",
+      "country": "cn"
+    },
+    {
+      "name": "Tieschitz",
+      "country": "cz"
+    },
+    {
+      "name": "Tilden",
+      "country": "us"
+    },
+    {
+      "name": "Tillaberi",
+      "country": "ne"
+    },
+    {
+      "name": "Timochin",
+      "country": "ru"
+    },
+    {
+      "name": "Tirupati",
+      "country": "in"
+    },
+    {
+      "name": "Tissint",
+      "country": "ma"
+    },
+    {
+      "name": "Tjabe",
+      "country": "id"
+    },
+    {
+      "name": "Tjerebon",
+      "country": "id"
+    }
+  ]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Meta data -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Planet Earth</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" href="./img/favicon.png" type="image/x-icon" />
+
+    <!-- Stylesheets -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="./css/normalise.css"
+    />
+
+    <!-- Script -->
+
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGbq_ZIpvvE7H-gVtTz80hUVNomYbOdK4"
+    ></script>
+
+    <script src="http://www.webglearth.com/v2/api.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"
+    ></script>
+    <script defer src="js/app.js"></script>
+    <script defer src="js/requests.js"></script>
+
+    <title>WebGL Earth API: Hello World</title>
+  </head>
+
+  <body>
+    <div class="c-stars">
+      <div class="c-container" id="c-container">
+        <div class="c-content">
+          <div class="c-content-header">
+            <h3 class="c-articleTitle">
+              <a
+                id="buttonISS"
+                class="o-button o-btnPush o-btnLightBlue"
+                ontouchstart="mobileButtonStart(event)"
+                ontouchend="mobileButtonEnd(event)"
+                onclick="desktopButton(event)"
+                >ISS</a
+              >
+            </h3>
+          </div>
+          <div class="c-graph">
+            <canvas id="myChart"></canvas>
+          </div>
+        </div>
+        <div class="o-earth" id="earth"></div>
+      </div>
+    </div>
+  </body>
+</html>
